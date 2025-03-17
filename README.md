@@ -1,8 +1,9 @@
 # **Medical Chatbot with Generative AI**  
 <p align="center">
-  <img src="ex_chatbotAI_img1.png" alt="image_1" width="500"/>
-  <img src="ex_chatbotAI_img2.png" alt="image_2" width="500"/>
+  <img src="ex_chatbotAI_img1.png" alt="image_1" width="400"/>
+  <img src="ex_chatbotAI_img2.png" alt="image_2" width="400"/>
 </p>
+
 ## **Overview**  
 This project is an **AI-powered medical chatbot** that leverages **Google Gemini model, LangChain, and Pinecone** for intelligent question-answering and medical information retrieval.  
 
