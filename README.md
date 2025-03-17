@@ -64,7 +64,8 @@ Open your browser and navigate to:
 - **LangChain** – LLM orchestration  
 - **Flask** – Web framework  
 - **Gemini** – Generative AI model  
-- **Pinecone** – Vector database for efficient search  
+- **Pinecone** – Vector database for efficient search
+- **Hugging Face** – Used Sentence Transformers for text embeddings
 
 ---
 
